@@ -1,0 +1,6 @@
+51.15.127.80
+2811
+=================
+First line represents the pool IP address.
+Second line is the pool port.
+Other lines aren't used.
